@@ -1,0 +1,3 @@
+.env
+.vscode
+cdk-py-lambda/cdk_py_lambda.egg-info
